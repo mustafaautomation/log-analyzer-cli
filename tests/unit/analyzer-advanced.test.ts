@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { analyzeEntries, AnalysisReport } from '../../src/analyzers/analyzer';
+import { analyzeEntries } from '../../src/analyzers/analyzer';
 import { LogEntry } from '../../src/parsers/types';
 
 function makeEntry(

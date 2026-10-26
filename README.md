@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/mustafaautomation/log-analyzer-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/mustafaautomation/log-analyzer-cli/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 CLI for analyzing application logs. Parses JSON and text log formats, groups errors by pattern, calculates error rates, and generates summaries. Essential for debugging test failures and monitoring.
 
